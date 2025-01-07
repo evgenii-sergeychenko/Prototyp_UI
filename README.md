@@ -1,6 +1,6 @@
 # prototype_ui_atm
 
-Задание: Разработать прототип для Use case из ДЗ-5 - https://docs.google.com/document/d/1qVh9GAM2lURFS8PdX5pBeJ6RlDf4zVqd3lElN-xAB70/edit?tab=t.1jj9ix9xpgsq#heading=h.uggnn2j5lezk
+Задание: Разработать прототип для Use case из ДЗ-5 - [https://docs.google.com/document/d/1qVh9GAM2lURFS8PdX5pBeJ6RlDf4zVqd3lElN-xAB70/edit?tab=t.1jj9ix9xpgsq#heading=h.uggnn2j5lezk]
 Требования:
 количество экранных форм больше двух
 тип прототипа - кликабельный или с картой диалоговых окон

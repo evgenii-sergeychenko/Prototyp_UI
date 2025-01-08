@@ -12,4 +12,4 @@
 
 ## Решение:
 1. Интерактивный прототип: [Ссылка](https://www.figma.com/proto/I69iGqQFNHFGfnlLuYQELY/%D0%A1%D1%85%D0%B5%D0%BC%D1%8B-%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%BE%D0%B2-%D0%90%D0%A2%D0%9C?node-id=53-2&t=C28ayOVvU4l4cpZa-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=53%3A119)
-2. 
+2. Карта диалоговых окон: [Ссылка](https://drive.google.com/file/d/1KUwOC3lu20k3pOYa6N5SUuC43kd3CEU4/view?usp=sharing)
